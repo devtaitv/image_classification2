@@ -27,7 +27,8 @@ Lưu ý: Thư viện tkinter thường được tích hợp sẵn trong các b�
 
 +++++++++++++++++++++++++++++++++++++++
 
-Dataset:
+Dataset: https://www.kaggle.com/datasets/truthisneverlinear/childrens-dental-panoramic-radiographs-dataset
+
 ![Screenshot 2024-10-30 154130](https://github.com/user-attachments/assets/f37e3fbb-9f9c-4a7a-9699-ebd6e639f081)
 
 
